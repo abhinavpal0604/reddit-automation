@@ -20,7 +20,7 @@ Last year, this project was successfully implemented, showcasing the complexity 
 The project is organized into three main folders:
 
 1. **Scripts Folder**
-   - Contains essential scripts:
+   - Contains essential scripts: (these contain some scripts from the complete project, rest of the scripts are embedded directly into the main program)
      - Get comments with specific karma and replies criteria.
      - Shadow ban checker.
      - Get cookie of a login session.
